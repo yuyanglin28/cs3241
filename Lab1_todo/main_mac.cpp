@@ -129,7 +129,7 @@ void MyMouse( int btn, int state, int x, int y )
             
             newDisc.speed[0] = xs;
             newDisc.speed[1] = ys;
-            
+        
             char R = rand() % 256;
             char G = rand() % 256;
             char B = rand() % 256;
